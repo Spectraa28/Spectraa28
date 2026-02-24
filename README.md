@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sonu Verma | Backend & ML Engineer<br><br>🚀 Specializing in deploying ML models into existing backend architectures.<br> 🛠️ Tech Stack: Java (Spring Boot), Python (PyTorch), FastAPI, Docker.<br> 📉 Focus: Model monitoring, drift detection, and cost mathematics.<br> 💡 I build AI solutions with a focus on business impact and unit economics.
+Sonu Verma | Backend <br><br>🚀 Specializing in deploying ML models into existing backend architectures.<br> 🛠️ Tech Stack: Java (Spring Boot), Python (PyTorch), FastAPI, Docker.<br> 📉 Focus: Model monitoring, drift detection, and cost mathematics.<br> 💡 I build AI solutions with a focus on business impact and unit economics.
 
 
 ## 🌐 Socials:
