@@ -4,7 +4,7 @@ I'm a Software Engineer who loves bridging the gap between rock-solid backend ar
 
 Most developers jump straight into writing APIs; I obsess over the architecture first. I am currently transitioning from building enterprise-grade Java/Spring Boot systems to mastering Machine Learning pipelines, focusing on model monitoring, feature engineering, and cost mathematics.
 
-- 🔭 **Currently Building:** [TaskFlow](https://github.com/Spectraa28/TaskFlow) - A real-time collaborative platform with strict FSM lifecycles.
+- 🔭 **Currently Building:** [TaskFlow](https://github.com/Spectraa28/TaskManager) - A real-time collaborative platform with strict FSM lifecycles.
 - 🌱 **Currently Learning:** Scikit-learn, PyTorch, and the intersection of Backend Engineering + MLOps.
 - ✍️ **Building in Public:** I share my deep-dive debugging stories and ML "gotchas" over on LinkedIn.
 - ⚡ **Fun fact:** I use Arch Linux, btw.
