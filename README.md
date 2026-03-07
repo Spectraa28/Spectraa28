@@ -35,4 +35,3 @@ Most developers jump straight into writing APIs; I obsess over the architecture 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Spectraa28&icon=0&color=0)](https://visitcount.itsvg.in)
-[![Spectra's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Spectraa28&theme=radical)](https://github.com/Spectraa28)
