@@ -10,6 +10,6 @@ I go deep before going wide: wrote backprop in NumPy before touching PyTorch, bu
 
 **Projects, demos, and the receipts:** → [sonuverma.vercel.app](https://sonuverma.vercel.app/)
 
-📫 [tannsonuverma@gmail.com](mailto:tannsonuverma@gmail.com) · [LinkedIn](https://linkedin.com/in/sonu-verma28)
+📫 [svermaengineer@gmail.com](mailto: svermaengineer@gmail.com) · [LinkedIn](https://linkedin.com/in/sonu-verma28)
 
 > *"It worked on my machine" is not a personality, but it is my origin story.*
