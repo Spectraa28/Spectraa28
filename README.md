@@ -8,7 +8,7 @@ I Always to  learn things from first principle first.
 
 **Stack:** Python · Java · FastAPI · Spring Boot · LangGraph · Docker · Postgres . Typescript . JavaScript
 
-**Projects, demos, and the receipts:** → [sverma.online](https://sverma.oneline)
+**Projects, demos, and the receipts:** → [sverma.online](https://sverma.online)
 
 📫 [svermaengineer@gmail.com](mailto: svermaengineer@gmail.com)  · [LinkedIn](https://linkedin.com/in/sonu-verma28)
 
