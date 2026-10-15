@@ -14,6 +14,6 @@ I build backend systems and infrastructure around LLM applications — reliable 
 
 Python · Java · FastAPI · Spring Boot · PostgreSQL · RabbitMQ · Redis · Docker · LangGraph · Qdrant · Next.js
 
-**Projects & demos:** sverma.online  
+**Projects & demos:** https://sverma.online  
 **Email:** svermaengineer@gmail.com  
 **LinkedIn:** linkedin.com/in/sonu-verma28
